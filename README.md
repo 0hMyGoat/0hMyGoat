@@ -94,6 +94,12 @@ This was very useful to me to refine the needs and priorities, broaden the scope
 - **API** : REST
 - **Tests** : TDD, Unit tests
 
+##### Project management
+
+- **Methodology** : Agile
+- **Tools** : Jira, Github
+- **Mockup** : Figma
+
 ---
 
 ## A propos de moi 👋 - French version
